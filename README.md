@@ -110,7 +110,7 @@ xml.etree.ElementTree: Для создания XML-документов.
 --
 #3
 
-![изображение](https://github.com/user-attachments/assets/cd883077-71a5-447b-9b32-9d6f9c9e7c5d)
+![изображение](https://github.com/user-attachments/assets/a2eadc17-4dfd-467e-afdc-d5c439a5ee39)
 ![изображение](https://github.com/user-attachments/assets/967c9118-3ef4-4f39-87f7-00694c85ec43)
 
 -
