@@ -96,3 +96,24 @@ xml.etree.ElementTree: Для создания XML-документов.
 Однострочные и многострочные комментарии.
 Массивы и словари.
 Константы и их вычисления.
+
+задания:
+1
+![изображение](https://github.com/user-attachments/assets/f4599569-b0f7-4548-8e31-7a6c6333078c)
+![изображение](https://github.com/user-attachments/assets/0f1a4b85-7d1f-4f34-b0f5-b32e7df0fdb1)
+
+2
+![изображение](https://github.com/user-attachments/assets/1187e4d8-9d92-4310-bf35-f921514d9572)
+![изображение](https://github.com/user-attachments/assets/3b6376e0-a546-41e6-a0bf-3c75a56ab92b)
+
+3
+![изображение](https://github.com/user-attachments/assets/cd883077-71a5-447b-9b32-9d6f9c9e7c5d)
+![изображение](https://github.com/user-attachments/assets/1b5d6e63-107b-48a8-a405-efc33c94abb4)
+
+4
+![Uploading изображение.png…]()
+
+
+
+
+
